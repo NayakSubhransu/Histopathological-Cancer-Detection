@@ -120,7 +120,7 @@ Output (Binary Classification)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SwapnilVerma001/histopathological-cancer-detection.git
+   git clone https://github.com/NayakSubhransu/Histopathological-Cancer-Detection.git
    cd histopathological-cancer-detection
    ```
 
